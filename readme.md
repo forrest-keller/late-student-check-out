@@ -6,5 +6,5 @@ This program uses Google API's to access the Google Sheets, Google Docs, and Gma
 
 ## Install
 1) Set up google cloud project, and enable all three API's used. 
-2) Download late_student_check_out.py, and in same directory as the python file, place the credentials.json from google cloud.
-3) from terminal, navigate to directory, and run `python late_student_check_out.py``
+2) Download `late_student_check_out.py`, and in same directory as the python file, place the `credentials.json` from google cloud.
+3) from terminal, navigate to directory, and run `python late_student_check_out.py`
